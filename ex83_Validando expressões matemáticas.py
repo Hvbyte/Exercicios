@@ -15,6 +15,6 @@ for símb in expr:
         else:
             pilha.pop()
 if 0 == len(pilha):
-    print(f'Sua expressão é válida!')
+    print(f'Sua expressão é válida! ')
 else:
     print(f'Sua expressão não é válida!')
